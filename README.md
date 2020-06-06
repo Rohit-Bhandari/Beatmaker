@@ -1,2 +1,2 @@
 # Beatmaker
-** Beat maker using javascript
+* Beat maker using javascript
